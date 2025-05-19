@@ -43,8 +43,6 @@ Here are a few of my public projects you might want to check out:
 
 ---
 
-> 💬 “Clean code, immersive gameplay, and community-focused development – that’s what I strive for.”
-
-Thanks for stopping by! ⭐  
-Feel free to explore my repositories or reach out for collaboration.
+> Thanks for stopping by! ⭐  
+> Feel free to explore my repositories or reach out for collaboration.
 
