@@ -30,16 +30,14 @@ Hi there! I'm a passionate **FiveM Developer** focused on creating immersive, hi
 
 Here are a few of my public projects you might want to check out:
 
-[![My Scripts](https://img.shields.io/badge/-FiveM%20Scripts-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME?tab=repositories&q=fivem&type=source)  
-[![UI Projects](https://img.shields.io/badge/-React%20UI%20Projects-61DAFB?style=for-the-badge&logo=react)](https://github.com/YOUR_USERNAME?tab=repositories&q=react&type=source)
+[![FiveM Projects](https://img.shields.io/badge/-FiveM%20Scripts-blue?style=for-the-badge&logo=fivem)](https://github.com/Shiny5m?tab=repositories&q=fivem&type=source)  
 
 ---
 
 ## 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Shiny5m)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1333895092372508694)  
 
 ---
 
